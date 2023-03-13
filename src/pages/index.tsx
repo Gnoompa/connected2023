@@ -203,7 +203,7 @@ export default function Home() {
         </Button>
         <Link
           target={"_blank"}
-          href={"https://connected2023.test.vercel.app/"}
+          href={"https://connected2023-test.vercel.app/"}
           fontSize={".9rem"}
           opacity={0.8}
           textAlign={"center"}
